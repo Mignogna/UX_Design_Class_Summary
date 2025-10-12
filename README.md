@@ -28,3 +28,9 @@ For a complete reading experience, featuring the original formatting, interactiv
 🔗[Click here to access the Notes for ***Generalist UX Design***](https://www.notion.so/UX-Design-Generalista-281d7b3463c680db8af4c3567822d97c)
 
 🔗[Click here to access the Notes for ***UX Research***](https://www.notion.so/Reposit-rio-de-Pesquisas-287d7b3463c680659b58dcaf28d93fd4)
+
+## ✨ Acesso à Versão Original no Notion
+
+Para uma experiência de leitura completa, com a formatação original, bases de dados interativas e recursos visuais, acesse a página no Notion:
+
+<a href="https://www.notion.so/Reposit-rio-de-Pesquisas-287d7b3463c680659b58dcaf28d93fd4" target="_blank">Clique aqui para acessar as Anotações de ***UX Design Generalista***</a>
