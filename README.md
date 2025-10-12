@@ -1,9 +1,26 @@
-# UX_Research_Class_Summary
+# 📚 Anotações UX Research: Imersão Digital Santander & Alura
 
-# UX Research Notes
+Este repositório é dedicado às anotações e materiais de estudo da disciplina de **UX Research (Pesquisa de Experiência do Usuário)**, desenvolvida durante o **Bootcamp Santander Universidades - Imersão Digital**, em parceria com a **Alura**.
 
-Este repositório contém as anotações da aula de UX Research, exportadas do Notion.
+O material aqui contido reflete os principais conceitos, métodos e ferramentas aprendidos, com foco na aplicação prática da pesquisa para criar produtos digitais mais centrados no usuário.
 
-Para acessar a versão interativa e original do material, use o link a seguir:
+## ✨ Acesso à Versão Original no Notion
 
-[**Acessar as Anotações no Notion**](https://www.notion.so/Reposit-rio-de-Pesquisas-287d7b3463c680659b58dcaf28d93fd4)
+Para uma experiência de leitura completa, com a formatação original, bases de dados interativas e recursos visuais, acesse a página no Notion:
+
+🔗[**Clique aqui para acessar as Anotações**](https://www.notion.so/Reposit-rio-de-Pesquisas-287d7b3463c680659b58dcaf28d93fd4)
+
+
+---
+
+# 📚 UX Research Notes: Santander & Alura Digital Immersion
+
+This repository is dedicated to the notes and study materials from the **UX Research (User Experience Research)** discipline, developed during the **Santander Universities - Digital Immersion Bootcamp**, in partnership with **Alura**.
+
+The material contained herein reflects the main concepts, methods, and tools learned, focusing on the practical application of research to create more user-centered digital products.
+
+## ✨ Access the Original Version in Notion
+
+For a complete reading experience, featuring the original formatting, interactive databases, and visual resources, access the page on Notion:
+
+🔗[**Click here to access the Notes**](https://www.notion.so/Reposit-rio-de-Pesquisas-287d7b3463c680659b58dcaf28d93fd4)
