@@ -4,7 +4,7 @@ Este repositório é dedicado às anotações e materiais de estudo da disciplin
 
 O material aqui contido reflete os principais conceitos, métodos e ferramentas aprendidos, com foco na aplicação prática da pesquisa para criar produtos digitais mais centrados no usuário.
 
-## ✨ Acesso à Versão Original no Notion
+## ✨ Acesso à Versão Original no Notion 
 
 Para uma experiência de leitura completa, com a formatação original, bases de dados interativas e recursos visuais, acesse a página no Notion:
 
@@ -29,8 +29,4 @@ For a complete reading experience, featuring the original formatting, interactiv
 
 🔗[Click here to access the Notes for ***UX Research***](https://www.notion.so/Reposit-rio-de-Pesquisas-287d7b3463c680659b58dcaf28d93fd4)
 
-## ✨ Acesso à Versão Original no Notion
 
-Para uma experiência de leitura completa, com a formatação original, bases de dados interativas e recursos visuais, acesse a página no Notion:
-
-<a href="https://www.notion.so/Reposit-rio-de-Pesquisas-287d7b3463c680659b58dcaf28d93fd4" target="_blank">Clique aqui para acessar as Anotações de ***UX Design Generalista***</a>
