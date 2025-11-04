@@ -7,10 +7,15 @@ O material aqui contido reflete os principais conceitos, métodos e ferramentas 
 ## ✨ Acesso à Versão Original no Notion 
 
 Para uma experiência de leitura completa, com a formatação original, bases de dados interativas e recursos visuais, acesse a página no Notion:
+<a href="https://www.notion.so/UX-Design-Generalista-281d7b3463c680db8af4c3567822d97c" target="_blank">Clique aqui para acessar as Anotações de UX Design Generalista</a>
 
 🔗[Clique aqui para acessar as Anotações de ***UX Design Generalista***](https://www.notion.so/UX-Design-Generalista-281d7b3463c680db8af4c3567822d97c)
 
 🔗[Clique aqui para acessar as Anotações de ***UX Research***](https://www.notion.so/Reposit-rio-de-Pesquisas-287d7b3463c680659b58dcaf28d93fd4)
+
+🔗[Clique aqui para acessar as Anotações de ***UX Design***](https://www.notion.so/Documenta-o-Tripideias-28bd7b3463c680afa5b6d0082a1a6cc1)
+
+🔗[Clique aqui para acessar as Anotações de ***UI Design***](https://www.notion.so/Definindo-o-Produto-Digital-29ad7b3463c68035ae74e0baff115a3a)
 
 
 ---
@@ -28,5 +33,9 @@ For a complete reading experience, featuring the original formatting, interactiv
 🔗[Click here to access the Notes for ***Generalist UX Design***](https://www.notion.so/UX-Design-Generalista-281d7b3463c680db8af4c3567822d97c)
 
 🔗[Click here to access the Notes for ***UX Research***](https://www.notion.so/Reposit-rio-de-Pesquisas-287d7b3463c680659b58dcaf28d93fd4)
+
+🔗[Click here to access the Notes for ***UX Design***](https://www.notion.so/Documenta-o-Tripideias-28bd7b3463c680afa5b6d0082a1a6cc1)
+
+🔗[Click here to access the Notes for ***UI Design***](https://www.notion.so/Definindo-o-Produto-Digital-29ad7b3463c68035ae74e0baff115a3a)
 
 
