@@ -16,6 +16,8 @@ Para uma experiência de leitura completa, com a formatação original, bases de
 
 🔗[Clique aqui para acessar as Anotações de ***UI Design***](https://www.notion.so/Definindo-o-Produto-Digital-29ad7b3463c68035ae74e0baff115a3a)
 
+🔗[Clique aqui para acessar as Anotações de ***Entrevistas com Usuário***](https://www.notion.so/Entrevista-com-Usu-rios-2a0d7b3463c6814b82d3fed865f80e95)
+
 
 ---
 
@@ -37,4 +39,4 @@ For a complete reading experience, featuring the original formatting, interactiv
 
 🔗[Click here to access the Notes for ***UI Design***](https://www.notion.so/Definindo-o-Produto-Digital-29ad7b3463c68035ae74e0baff115a3a)
 
-
+🔗[Click here to access the Notes for  ***User Interview***](https://www.notion.so/Entrevista-com-Usu-rios-2a0d7b3463c6814b82d3fed865f80e95)
